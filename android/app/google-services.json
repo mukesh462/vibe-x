@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "451558421306",
+    "project_id": "vibex-ccff5",
+    "storage_bucket": "vibex-ccff5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:451558421306:android:1264954491085828571603",
+        "android_client_info": {
+          "package_name": "com.vibex"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "451558421306-1d76eoukr00v0vq3c6ln5ep5fq6genfo.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCoGSYNksp9XL77Z9cl4Yok_2Dgqq8LBXI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "451558421306-1d76eoukr00v0vq3c6ln5ep5fq6genfo.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

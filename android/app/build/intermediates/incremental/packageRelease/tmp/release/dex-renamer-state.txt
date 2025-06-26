@@ -1,0 +1,7 @@
+#Fri Nov 04 18:23:10 IST 2022
+base.1=/home/uplogic/Desktop/vibeX/android/app/build/intermediates/dex/release/mergeDexRelease/classes2.dex
+path.1=classes2.dex
+base.0=/home/uplogic/Desktop/vibeX/android/app/build/intermediates/dex/release/mergeDexRelease/classes.dex
+renamed.1=classes2.dex
+renamed.0=classes.dex
+path.0=classes.dex
